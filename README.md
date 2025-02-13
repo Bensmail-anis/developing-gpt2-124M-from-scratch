@@ -30,7 +30,7 @@ To evaluate model performance, we compared our results against GPT-2 and GPT-3 b
 
 *   **Validation Loss**: We recorded a minimum validation loss of 3.0481 after one epoch.
 
-*   **HellaSwag Accuracy**: Our model reached 0.3086, surpassing GPT-2 124M's 0.2945, though remaining below GPT-3 124M's 0.337 "we need more epochs".
+*   **HellaSwag Accuracy**: Our model reached 0.3086, surpassing the official GPT-2 124M's 0.2945, though remaining below GPT-3 124M's 0.337 "we need more epochs".
 
 
 ![evaluation](assets/evaluation.png)
