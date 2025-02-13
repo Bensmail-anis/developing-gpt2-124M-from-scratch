@@ -68,7 +68,7 @@ To evaluate model performance, we compared our results against GPT-2 and GPT-3 b
 >_"We have the ability to create new healthcare technologies that are affordable and accessible to all patients. This technology can help ensure that patients receive the care that is needed for them to improve their health."_
 
 ## Setup/Execution :
-Go to **src** (you have the requirements) , use SSH for getting cloud GPUs :
+Go to **src/gpt2_model** (you have the requirements) , use SSH for getting cloud GPUs :
 ```bash
 python data_download.py # to download the data and tokenize it
 python distributed_training.py # for single gpu training
