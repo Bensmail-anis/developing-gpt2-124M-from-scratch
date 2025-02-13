@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+env/
+venv/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Config files and logs
+*.log
+*.yaml
+*.yml
+*.ini
+*.cfg
+
+# Dataset files and large data directories
+data/
+datasets/
+*.csv
+*.json
+*.xml
+
+# Model weights and checkpoints
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.onnx
+checkpoints/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# System and IDE-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependency files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Machine learning frameworks
+wandb/
+mlruns/
+
+
+edu_fineweb10B_npy
+edu_fineweb10B
+hellaswag
+log
