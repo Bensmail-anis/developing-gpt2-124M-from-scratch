@@ -26,9 +26,9 @@ For training our custom GPT-2 model, we utilized the FineWeb dataset with 10 bil
 
 To evaluate model performance, we compared our results against GPT-2 and GPT-3 baselines across key metrics like: HellaSwag accuracy.
 
-*   **Training Loss**: Our model achieved a minimum training loss of 2.7826 after one epoch.
+*   **Training Loss(Cross-Entropy Loss)**: Our model achieved a minimum training loss of 2.7826 after one epoch.
 
-*   **Validation Loss**: We recorded a minimum validation loss of 3.0481 after one epoch.
+*   **Validation Loss(Cross-Entropy Loss)**: We recorded a minimum validation loss of 3.0481 after one epoch.
 
 *   **HellaSwag Accuracy**: Our model reached 0.3086, surpassing the official GPT-2 124M's 0.2945, though remaining below GPT-3 124M's 0.337 "we need more epochs".
 
