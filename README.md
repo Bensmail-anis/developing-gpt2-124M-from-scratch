@@ -2,9 +2,9 @@
 
 *   **Attention Is All You Need** (Vaswani et al., 2017)
 
-*   **Language Models are Unsupervised Multitask Learners**(GPT-2 paper) (Radford et al., 2019)
+*   **Language Models are Unsupervised Multitask Learners** (GPT-2 paper) (Radford et al., 2019)
 
-*   **Language Models are Few-Shot Learners**(GPT-3 paper) (Brown et al., 2020)
+*   **Language Models are Few-Shot Learners** (GPT-3 paper) (Brown et al., 2020)
 
 **Thanks to Andrej Karpathy’s clear and insightful explanations in his Neural Networks series.**
 ![attention](assets/decoder.png)
